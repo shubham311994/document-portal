@@ -40,9 +40,24 @@ source .venv/bin/activate
 uv pip install -r requirements.txt
 ```
 
-### Minimum Requirements for this project
-1. LLM Model ##groq, openai, gemini, claude, huggingface, ollama
+## Minimum Requirements for this project
 
-2. Embedding model ## openai, hf, gemini 
+### LLM Model 
+* Groq 
+* OpenAI 
+* Gemini 
+* Claude 
+* Hugging Face 
+* Ollama
 
-3. vectordatabases ##inmemory ##ondisk ##cloudbased 
+### Embedding Models 
+* OpenAI 
+* Hugging Face 
+* Gemini 
+
+### Vector Databases 
+* In-Memory 
+* On-Disk 
+* Cloud-Based
+
+## API Keys
