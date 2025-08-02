@@ -3,3 +3,9 @@
 document_portal.egg-info/
 .gitignore
 env
+__pycache__/
+logs/
+*.pyc
+data/
+test.py
+
