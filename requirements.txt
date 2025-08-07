@@ -7,6 +7,7 @@ langchain_community
 langchain_huggingface
 sentence-transformers
 pypdf
+flake8
 faiss-cpu
 structlog
 PyMuPDF
